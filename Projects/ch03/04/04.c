@@ -7,5 +7,6 @@ int main(void)
     printf("Enter phone number [(xxx) xxx-xxxx]: ");
     scanf("(%d) %d-%d", &first, &second, &third);
 
+    // Print the result
     printf("You entered %.3d.%.3d.%.4d\n", first, second, third);
 }
