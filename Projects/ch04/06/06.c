@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    // Prompt the user to enter the 11-digit number
+    // Prompt the user to enter the 12-digit number
     int i1, i2, i3, i4, i5, i6, i7, i8, i9, i10, i11, i12, first_sum, second_sum, total;
     printf("Enter the first 12 digits of an EAN: ");
     scanf("%1d%1d%1d%1d%1d%1d%1d%1d%1d%1d%1d%1d", &i1, &i2, &i3, &i4, &i5, &i6, &i7, &i8, &i9, &i10, &i11, &i12);   
