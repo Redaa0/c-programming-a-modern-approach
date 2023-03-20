@@ -12,5 +12,6 @@ int main(void)
     n1 = n / 100;
     
     // Print the number reversed
-    printf("The reversal is: %d%d%d\n", n3, n2, n1);   
+    printf("The reversal is: %d%d%d\n", n3, n2, n1);
+    return (0);   
 }
