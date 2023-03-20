@@ -15,4 +15,5 @@ int main(void)
 
     // Display the number converted to octal
     printf("In octal, your number is: %d%d%d%d%d\n", n1, n2, n3, n4, n5);
+    return (0);
 }
