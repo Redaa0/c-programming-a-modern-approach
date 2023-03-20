@@ -12,4 +12,5 @@ int main(void)
 
     // Print the number reversed
     printf("The reversal is: %d%d\n", lastDigit, beforeLast);
+    return (0);
 }
