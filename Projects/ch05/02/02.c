@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int hour, minute, time;
+    int hour, minute;
 
     // Prompt the user to enter the 24-hour time
     printf("Enter a 24-hour time: ");
