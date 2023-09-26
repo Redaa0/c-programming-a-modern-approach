@@ -10,7 +10,7 @@ int main(void)
 
     printf("Enter a message: ");
 
-    for (i = 0; (i < SIZE - 1) && ((array[i] = getchar()) != '\n'); i++)
+    for (i = 0;((array[i] = getchar()) != '\n'); i++)
     {
         array[i] = toupper(array[i]);
         if (array[i] == 'A')
